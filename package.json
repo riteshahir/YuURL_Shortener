@@ -1,0 +1,22 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "\"BE Assignment\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "node modularMyApp.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "mogodb": "0.0.1-security",
+    "mogoose": "0.0.1-security",
+    "mongodb": "^3.2.4",
+    "mongoose": "^5.12.13"
+  },
+  "author": "ritesh yadav",
+  "license": "ISC"
+}
